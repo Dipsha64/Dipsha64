@@ -6,11 +6,10 @@
 💼   Currently working as Node js & Vue js developer.
 👨🏻‍💻   Looking for a MERN full stack developer role job.
 🌱   Learning more about web technologies, software development.
-✍️   Creating projects based on MERN stack and practising algorithms.
+✍️   Creating projects based on the MERN stack and practising algorithms.
 
 🛠  Tech Stack
-💻   Java Python
-🌐   HTML5 CSS JavaScript Bootstrap jQuery Node.js React
+🌐   [![My Skills](https://skillicons.dev/icons?i=html5&theme=light)](https://skillicons.dev) HTML5 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)CSS [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)JavaScript Bootstrap jQuery [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)Node.js [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)React
 🛢   MySQL MongoDB
 ⚙️   Git GitHub
 🔧   Visual Studio Code
