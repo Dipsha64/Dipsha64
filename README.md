@@ -27,3 +27,10 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dipsha-kalariya-a5826b104/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dipsha%20Kalaria%20-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://www.instagram.com/_h.ro_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_h.ro_-blue?style=flat-square&logo=instagram"></a> -->
+<a href="https://twitter.com/DipshaKalariya"><img alt="Twitter" src="https://img.shields.io/badge/Dipshakalaria-blue?style=flat-square&logo=twitter"></a>
+<a href="https://medium.com/@dipshakalaria"><img alt="Medium" src="https://img.shields.io/badge/Medium-Dipsha%20Kalaria-blue?style=flat-square&logo=google-chrome"></a>
+</p>
