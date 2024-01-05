@@ -1,4 +1,4 @@
-### Hi there, I'm Dipsha👋
+### Hey there, I'm Dipsha👋
 
 <!--
 **Dipsha64/Dipsha64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
