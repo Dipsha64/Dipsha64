@@ -1,6 +1,7 @@
-### Hey there, I'm Dipsha👋
+<h2> &nbsp Hey there, I'm Dipsha👋 </h2>
 
-👨🏻‍💻  About Me
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🤔   Exploring new technologies and developing software solutions.
 - 🎓   Completed my degree in Information & Technology Engineering.
 - 💼   Currently working as Node js & Vue js developer.
@@ -10,7 +11,7 @@
 - 💬 Ask me about anything [here](https://github.com/Dipsha64/Dipsha64/issues)
 
 
-🛠  **Tech Stack**
+<h3> 🛠 &nbsp;Tech Stack</h3>
 <br/>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -23,3 +24,6 @@
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
