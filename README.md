@@ -1,12 +1,12 @@
 ### Hey there, I'm Dipsha👋
 
 👨🏻‍💻  About Me
-🤔   Exploring new technologies and developing software solutions.
-🎓   Completed my degree in Information & Technology Engineering.
-💼   Currently working as Node js & Vue js developer.
-👨🏻‍💻   Looking for a MERN full stack developer role job.
-🌱   Learning more about web technologies, software development.
-✍️   Creating projects based on the MERN stack and practising algorithms.
+- 🤔   Exploring new technologies and developing software solutions.
+- 🎓   Completed my degree in Information & Technology Engineering.
+- 💼   Currently working as Node js & Vue js developer.
+- 👨🏻‍💻   Looking for a MERN full stack developer role job.
+- 🌱   Learning more about web technologies, software development.
+- ✍️   Creating projects based on the MERN stack and practising algorithms.
 
 🛠  **Tech Stack**
 <br/>
